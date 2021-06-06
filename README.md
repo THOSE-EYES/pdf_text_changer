@@ -13,7 +13,7 @@ And then clone the repository to use the script.
 ## Example of use
 The program can used as a standalone script like described below :
 ```
-python replacer.py -i <pdf> -r '<JSON-object "data" : "replacer">'
+python replacer.py -i <pdf> -r '<JSON-object like { "data" : "replacer" }>'
 ```
 
 Or it can be referenced by other scripts using import.
